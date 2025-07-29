@@ -2,7 +2,7 @@
 
 **Transform your personal memories into immersive soundscapes**
 
-[Live Demo](https://memoryweaversoundscapes.lovable.app/) | [Discussions](https://github.com/ShaliniAnandaPhD/Memory_Weaver) | [Report Issues](https://github.com/ShaliniAnandaPhD/Memory_Weaver)
+[App Here](https://memoryweaversoundscapes.lovable.app/) | [Discussions](https://github.com/ShaliniAnandaPhD/Memory_Weaver) | [Report Issues](https://github.com/ShaliniAnandaPhD/Memory_Weaver)
 
 ## ✨ What is Memory Weaver?
 
