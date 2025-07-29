@@ -77,6 +77,18 @@ As a browser-based application, Memory Weaver faces certain audio fidelity const
 - ✅ **Perfect for**: Personal memories, meditation, relaxation, creative exploration
 - ⚠️ **Not ideal for**: Professional music production, mastering, critical listening
 
+## 🚀 Roadmap to Future Development
+
+For a comprehensive technical analysis and development roadmap, see our detailed planning document:
+
+📋 **[Psychoacoustic Processing: Web Browser vs CLI Implementation](https://shalini-ananda-phd.notion.site/Psychoacoustic-Processing-Web-Browser-vs-CLI-Implementation-23fc18ea2aa18078bbecdcee2589d8b9)**
+
+This document covers:
+- Technical architecture comparisons
+- Performance benchmarks and limitations
+- Planned feature implementations
+- Development timeline and priorities
+
 ### Optimization Tips
 1. **Use Chrome or Firefox** for best Web Audio API support
 2. **Close other tabs** to free up processing power
